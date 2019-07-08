@@ -20,7 +20,7 @@ Install
 ``` r
 if('rCPDMS' %in% installed.packages()){remove.packages('rCPDMS')}
 # install.packages("devtools")
-devtools::install_github("xuyuting/rCPDMS")
+devtools::install_github("Merck/rCPDMS")
 ```
 - Option 2) Install from R-package source file rCPDMS_0.1.3.tar.gz in this repository
 ``` r
