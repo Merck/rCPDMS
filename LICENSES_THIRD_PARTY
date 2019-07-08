@@ -1,0 +1,26 @@
+--------------------------------------------------
+Third party R libraries listed by License type
+[Format: Name - URL]
+--------------------------------------------------
+
+GPL-2 | file LICENSE
+	* drc - https://cran.r-project.org/web/packages/drc/index.html
+	* ggplot2 - https://github.com/tidyverse/ggplot2
+
+GPL-2 | GPL-3 [expanded from: GPL (≥ 2)]
+	* truncnorm - https://cran.r-project.org/web/packages/truncnorm/index.html
+	* knitr - https://yihui.name/knitr/
+	* gridExtra - https://CRAN.R-project.org/package=gridExtra
+
+GPL (>=2)
+	* limma - http://bioinf.wehi.edu.au/limma
+
+GPL-3
+	* rmarkdown - 	https://rmarkdown.rstudio.com
+
+MIT + file LICENSE
+	* magrittr - https://cran.r-project.org/web/packages/magrittr/index.html
+	* dplyr - https://cran.r-project.org/web/packages/dplyr/index.html
+	* reshape2 -  https://github.com/hadley/reshape
+	* tidyr - https://github.com/tidyverse/tidyr
+

@@ -1,0 +1,12 @@
+Package: rCPDMS
+Title: Data analysis package for CPDMS project
+Version: 0.1.3
+Author: Yuting Xu, Andy Liaw, Huijun Wang
+Maintainer: Yuting Xu <yuting.xu@merck.com>
+Description: Automatic statistical analysis for multiple chemoproteomics workflows. 
+Depends: R (>= 3.4.0)
+Imports: drc, truncnorm, magrittr, dplyr, knitr, ggplot2, gridExtra, reshape2, tidyr, limma
+Suggests: rmarkdown
+VignetteBuilder: knitr
+License: GPL-3
+LazyData: true

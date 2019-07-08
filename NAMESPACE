@@ -1,0 +1,14 @@
+export(MSanalysis)
+import(drc)
+import(ggplot2)
+importFrom(magrittr, "%>%")
+import(dplyr)
+import(truncnorm)
+import(reshape2)
+importFrom("grDevices", "dev.off", "jpeg")
+importFrom("stats", "aggregate", "ave", "complete.cases", "dnorm",
+             "fitted", "lm", "mad", "median", "pnorm", "quantile",
+             "relevel", "sd", "p.adjust", "cor")
+importFrom("utils", "read.table", "write.csv")
+importFrom(tidyr, "spread", "gather")
+importFrom(limma, "makeContrasts", "lmFit", "contrasts.fit", "eBayes")
